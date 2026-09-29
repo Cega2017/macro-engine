@@ -1,0 +1,7 @@
+pandas>=2.1
+numpy
+pyarrow
+plotly>=5.20
+scikit-learn
+requests
+
